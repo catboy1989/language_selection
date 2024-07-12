@@ -1,0 +1,1 @@
+if exist "D:\test" rmdir /s /q "D:\test\"
